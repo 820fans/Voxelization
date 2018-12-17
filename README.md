@@ -7,4 +7,4 @@ Java voxelization for amf 3D format.
 
 ![img_example](img/gui_example.png)
 ![img_modo](screenshots/model/modo_edge.png)
-![img_modo](screenshots/model/modo_render.png)
+![img_modo](screenshots/model/modo_render.JPG)
